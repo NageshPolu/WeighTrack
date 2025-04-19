@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/WeighTrack/static/css/main.bf62d637.css",
-    "main.js": "/WeighTrack/static/js/main.63486cc0.js",
+    "main.css": "/WeighTrack/static/css/main.3db71bcd.css",
+    "main.js": "/WeighTrack/static/js/main.a034d0e3.js",
     "index.html": "/WeighTrack/index.html",
-    "main.bf62d637.css.map": "/WeighTrack/static/css/main.bf62d637.css.map",
-    "main.63486cc0.js.map": "/WeighTrack/static/js/main.63486cc0.js.map"
+    "main.3db71bcd.css.map": "/WeighTrack/static/css/main.3db71bcd.css.map",
+    "main.a034d0e3.js.map": "/WeighTrack/static/js/main.a034d0e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf62d637.css",
-    "static/js/main.63486cc0.js"
+    "static/css/main.3db71bcd.css",
+    "static/js/main.a034d0e3.js"
   ]
 }
